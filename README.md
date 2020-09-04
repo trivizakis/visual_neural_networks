@@ -4,10 +4,6 @@ a java desktop application for on-the-fly "handwritten" digit classification wit
 
 
 <hr>
-use hypes file with:
-https://github.com/trivizakis/easyConvNet
-
-<hr>
 
 if you find this useful
 
